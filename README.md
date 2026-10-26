@@ -108,4 +108,5 @@ Local JSON persistence may not be durable across hosted restarts and is not mult
 MIT. See [`LICENSE`](LICENSE).
 
 ## Author
-Add your name and contact details before submission.
+Anjali Desai
+Email:anjalidesai9822@gmail.com
